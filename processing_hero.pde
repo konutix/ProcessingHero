@@ -2,7 +2,7 @@ import ddf.minim.*;
 
 //wybrany utwor
 
-String TRACK = "Pisong";
+String TRACK = "Outcast"; // <- nazwa pliku muzycznego i tekstowego do gry
 
 //zmienne do liczenia punktów i kliknięć
 int points = 0;
